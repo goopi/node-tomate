@@ -1,0 +1,9 @@
+{
+  "name": "tomate",
+  "version": "0.0.1",
+  "description": "Rotten Tomatoes API client",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "0.15.x"
+  }
+}
